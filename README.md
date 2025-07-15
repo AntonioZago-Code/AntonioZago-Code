@@ -9,4 +9,4 @@ My name is Antonio Zago and I'm a Software Engineering student
 
 - Phone: +55 22 99909-7876
 - E-mail addres: antoniobzago20@gmail.com
-- Linkdin profile: www.linkedin.com/in/antonio-zago-3a1309368 
+- Linkdin profile: www.linkedin.com/in/antoniobzago
