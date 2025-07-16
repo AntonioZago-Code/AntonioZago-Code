@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there 👋! My name is Antonio Zago
 
-My name is Antonio Zago and I'm a Software Engineering student
+ I'm a Software Engineering student and seeking to learn more and more, creating modern, functional projects with clean code, to be able to help and work together with teams.
 
-- 🌱 I'm currently learning web programming and other languages for front-end and back-end development;
-- 🤔 I'm looking for help with my repositories. Outside of college, I'm trying to learn different programming languages.
+- 🌱 I'm currently learning web programming and other languages for front-end and back-end development (full-stack);
+- 🤔 I'm looking to work in teams and being able to contribute to projects in unique ways.
+- 
 
 ## Contact
 
